@@ -12,10 +12,10 @@
     <li>Include book publication date</li>
     <li>Add multiple languages</li>
     <li>Manage stock using Angular material radio buttons</li>
-    <li></li>
 </ul>
 
-# Angular12CRUDApp
+<h2>Config Firebase</h2>
+<p>To make connection between your Firebase 6 real-time NoSQL database and Angular app. Go to src > environments folder and add your Firebase config details in both the environment files.</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
