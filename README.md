@@ -1,27 +1,28 @@
+<h1>Angular 12 CRUD (Create, Read, Update and Delete) web app with Angular Material and Firebase real-time NoSQL database</h1>
+
+<p>creating a book store inventory CRUD web application. In this Book management app user will be able to do the following things:</p>
+
+<p style="color: red;">Add, Read, Edit and Delete book from Firebase db using AngularFire 2 library</p>
+
+<ul>
+    <li>Add book name</li>
+    <li>Add author name</li>
+    <li>Add 10 digit Book ISBN</li>
+    <li>Add bookbinding type using Angular Material dropdown</li>
+    <li>Include book publication date</li>
+    <li>Add multiple languages</li>
+    <li>Manage stock using Angular material radio buttons</li>
+    <li></li>
+</ul>
+
 # Angular12CRUDApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3>Author</h3>
+<span>Boujjou Achraf</span>
+<ul>
+  <li><a href='https://github.com/McAchoox94'>Github : McAchoox94</a></li>
+   <li><a href='https://www.linkedin.com/in/achrafboujjou/'>Linkedin : Boujjou Achraf</a></li>
+</ul>
+<h4>Happy Coding....</h4>
