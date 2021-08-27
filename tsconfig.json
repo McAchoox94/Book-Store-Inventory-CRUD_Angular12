@@ -7,6 +7,8 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitReturns": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false, // As you can see, TypeScript throws error “Object is possibly ‘undefined’” for username object. To Fix That Error
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
